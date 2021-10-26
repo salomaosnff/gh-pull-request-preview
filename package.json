@@ -1,0 +1,12 @@
+{
+  "name": "gh-pull-request-preview",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:salomaosnff/gh-pull-request-preview.git",
+  "author": "Salomao Neto <salomaosnff3@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@actions/core": "^1.6.0",
+    "@actions/github": "^5.0.0"
+  }
+}
